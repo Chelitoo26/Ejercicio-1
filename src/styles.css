@@ -2,6 +2,14 @@
     box-sizing: border-box;
 }
 
+h1{
+ font-style: italic;
+ background-color: purple;
+ color: whitesmoke;
+
+}
+
+
 .columna {
     float: left;
     width: 50%;
